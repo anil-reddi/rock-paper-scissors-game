@@ -1,0 +1,15 @@
+.result-button {
+  color: #223a5f;
+  font-size: 10px;
+  font-family: 'Roboto';
+  width: 100px;
+  height: 30px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
